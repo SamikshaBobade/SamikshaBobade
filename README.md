@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiksha Bobade</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/156/298/original/UTSEH078Aw.gif?1738388004" align="right" alt="coding girl" width="400px"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samikshabobade&label=Profile%20views&color=0e75b6&style=flat" alt="samikshabobade" /> </p>
